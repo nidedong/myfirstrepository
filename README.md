@@ -1,2 +1,2 @@
 # myfirstrepository
-work
+日常练习
